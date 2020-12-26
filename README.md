@@ -1,4 +1,4 @@
 # file
 Resources
 
-- [nin-red.zip](./nin-red.zip)
+- [ninred.zip](./ninred.zip)
